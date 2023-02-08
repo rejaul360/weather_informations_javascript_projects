@@ -1,0 +1,46 @@
+body{
+    background-image: url("img/5466409.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.container{
+    margin: 100px auto;
+    text-align: center;
+}
+#desing{
+    color: antiquewhite;
+    font-weight: dark;
+}
+#info{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+#input-btn{
+    width: 500px;
+    padding: 5px;
+}
+#src-btn{
+    padding: 5px;
+    width: 100px;
+
+}
+#city {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.pera{
+    margin: 0;
+    font-size: 25px;
+}
+#tem{
+    font-size: 25px;
+    margin: 0;
+    margin-bottom: 0;
+}
+#des{
+    font-size: 40px;
+    margin-bottom: 10px;
+    
+}
